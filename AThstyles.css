@@ -1,0 +1,23 @@
+body {background: GreenYellow;
+	  color: black;
+	  font-size: 16pt; }
+	  
+body { font-family: 'Bitter', serif; }
+
+h1 { font-size: 250%;
+     font-weight: bold;
+     color: black }
+nav li { display: inline-block }
+
+nav li{ border: 3px solid royalblue }
+
+nav li { padding: 7px;
+         margin: 30px; }
+
+nav li a:hover { color: pink }
+
+.Sport {float: right; }
+.Sport {text-align: right; }
+.Sport {margin: 50px; }
+
+.portal {text-align: center; }

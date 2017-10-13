@@ -1,0 +1,35 @@
+body {background: khaki;
+	  color: black;
+	  font-size: 14pt; }
+	  
+body { font-family: 'Bitter', serif; }
+
+h1 { font-size: 250%;
+     font-weight: bold;
+     color: black }
+     
+h2 { font-size: 150%;
+    color: royalblue }
+    
+nav li { display: inline-block }
+
+nav li{ border: 3px solid royalblue }
+
+nav li { padding: 7px;
+         margin: 30px; }
+
+nav li a:hover { color: pink }
+
+li a:hover { color: pink }
+
+a { color: black;
+	text-decoration: none }
+
+.me {position: relative; }
+.me img { position: absolute; 
+          top: 0px;
+          right: 0px; }
+
+body {text-align: center; }
+
+.link {text-align: left; }

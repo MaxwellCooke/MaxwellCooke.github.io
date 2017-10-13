@@ -1,0 +1,32 @@
+body {background: LightCoral;
+	  color: black;
+	  font-size: 16pt; }
+	  
+body { font-family: 'Bitter', serif; }
+
+
+
+h1 { font-size: 250%;
+     font-weight: bold;
+     color: black }
+     
+h2 { font-size: 250%;
+     font-weight: bold;
+     color: black }
+
+nav li { display: inline-block }
+
+nav li{ border: 3px solid royalblue }
+
+nav li { padding: 7px;
+         margin: 30px; }
+
+nav li a:hover { color: pink }
+
+body {text-align: center; }
+
+p {text-align: left; }
+
+h1 {text-align: left; }
+
+h2 {text-align: left; }

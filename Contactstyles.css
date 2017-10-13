@@ -1,0 +1,26 @@
+body {background: LightSteelBlue;
+	  color: black;
+	  font-size: 14pt; }
+	  
+body { font-family: 'Bitter', serif; }
+
+nav li { display: inline-block }
+
+nav li{ border: 3px solid royalblue }
+
+nav li { padding: 7px;
+         margin: 30px; }
+
+nav li a:hover { color: pink }
+
+
+body {text-align: center; }
+
+
+table {margin: auto; }
+
+table, th, td { border: 2px solid black; border-collapse: collapse }
+
+th, td {
+    padding: 15px;
+}
